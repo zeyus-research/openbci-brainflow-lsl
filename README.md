@@ -7,6 +7,7 @@ This is probably a better option for 99.9% of cases, it allows restreaming Cyton
 
 [LSL Viewer](https://github.com/NexusDynamic/liblsl.dart#viewing-recordings-and-streams)
 
+---
 
 Uses Python, [BrainFlow](https://github.com/brainflow-dev/brainflow), and [pylsl](https://github.com/labstreaminglayer/liblsl-Python) to read data from Open BCI board and send it as [Lab Streaming Layer (LSL)](https://github.com/sccn/labstreaminglayer) streams.
 
